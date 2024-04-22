@@ -1,38 +1,24 @@
-### Hi there 👋
+### Hi, I'm Alan! 👋
 
 ✨ About me
 
-🎓 Currently, I'm at the end of one-year Full Stack Developer programming course run by the Codecool programming school, where I worked on my tech and soft skills.
+🎓 Currently, I'm at the end of **Java from Scratch** [(diplom)](https://app.diplomasafe.com/en-US/diploma/dc9dadebbb13afe2f28351b8c6dcf1ad81463493a) and **UX/UI Design** courses run by the Software Development Academy programming school, where I worked on my tech and soft skills.
 
 🔎 I am looking for a job as a junior engineer with the possibility of development and the chance to learn even more new things! :)
 
-📁 I am an open, sociable, active and most of all helpful person. I love to make new friends, gain new experiences and cannot imagine life without people around me. I am ready for new challenges, even if the road is rough, I will try even harder.
+📁 I am an open, sociable, active, and, most importantly, helpful person. I love making new friends and gaining new experiences. I am ready for new challenges, and even if the road is rough, I will try even harder.
 
-💪 Beside that i am trying to develop my mind i am sport enthusiast especially calisthenics. Sometimes I help my friends with planning their diets to lose weight or build muscles. Remember! In a healthy body, healthy mind. 😎
+💪 Besides that, I am trying to develop my mind. I am a sports enthusiast, especially in roller skating, and recently, I have taken up gym workouts. I believe that a healthy body is crucial for a healthy mind. 😎
 
-🎮📚 I love reading books and playing video games. Well when it comes to books i will choose those about personal development or thriller ones. Currently reading Thinking, Fast and Slow by Kahneman Daniel and my favorite thriller is I Am Pilgrim by Terry Hayes. Regarding to playing games i would choose online games and skilled ones.
+
 
 ⭐ Technology stack
 
-Java
-Java
-Java
-Java
-Java
-Java
-Java
-Java
-Java
-Java
-Java
-Java
-Java
-Java
 
 
 📫 Contact and socials
 
-nowak.alan@gmail.com
+nowak.alan@gmail.com<br/>
 www.linkedin.com/in/nowak-alan
 
 <!--
